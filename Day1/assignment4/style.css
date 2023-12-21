@@ -1,0 +1,35 @@
+.card{
+    margin: 50px auto;
+    padding: 24px 20px;
+    width: 450px;
+    height: 600px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+}
+input , .btn{
+    padding: 18px 20px;
+    margin: 8px;
+    border: 1px solid lightgray;
+    border-radius: 12px;
+}
+.btn{
+    background-color: black;
+    font-size: 16px;
+    margin-left: 100px;
+    color: white;
+    border-radius: 50px;
+    width: 50%;
+}
+.center{
+    text-align: center;
+}
+.title{
+    font-size: 60px;
+}
+.sub-title{
+    font-size: 24px;
+}
